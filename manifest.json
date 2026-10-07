@@ -1,0 +1,514 @@
+[
+ {
+  "card": "01_魔術師",
+  "id": "diagA",
+  "title": "図解A_テーブルの変化",
+  "source": "01_魔術師_素材/図解A_テーブルの変化.png",
+  "path": "img/01/diagA.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/01/diagA.jpg"
+ },
+ {
+  "card": "01_魔術師",
+  "id": "diagB",
+  "title": "図解B_上なるものを下へ",
+  "source": "01_魔術師_素材/図解B_上なるものを下へ.png",
+  "path": "img/01/diagB.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/01/diagB.jpg"
+ },
+ {
+  "card": "01_魔術師",
+  "id": "fig1",
+  "title": "図1_3版比較",
+  "source": "01_魔術師_素材/額装/図1_3版比較.png",
+  "path": "img/01/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/01/fig1.jpg"
+ },
+ {
+  "card": "01_魔術師",
+  "id": "fig2",
+  "title": "図2_ヴィスコンティ版",
+  "source": "01_魔術師_素材/額装/図2_ヴィスコンティ版.png",
+  "path": "img/01/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/01/fig2.jpg"
+ },
+ {
+  "card": "01_魔術師",
+  "id": "fig3",
+  "title": "図3_マルセイユ版",
+  "source": "01_魔術師_素材/額装/図3_マルセイユ版.png",
+  "path": "img/01/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/01/fig3.jpg"
+ },
+ {
+  "card": "01_魔術師",
+  "id": "fig4",
+  "title": "図4_ボス_奇術師",
+  "source": "01_魔術師_素材/額装/図4_ボス_奇術師.png",
+  "path": "img/01/fig4.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/01/fig4.jpg"
+ },
+ {
+  "card": "01_魔術師",
+  "id": "fig5",
+  "title": "図5_ハウスブーフ_月の子どもたち",
+  "source": "01_魔術師_素材/額装/図5_ハウスブーフ_月の子どもたち.png",
+  "path": "img/01/fig5.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/01/fig5.jpg"
+ },
+ {
+  "card": "01_魔術師",
+  "id": "fig6",
+  "title": "図6_ウェイトスミス版",
+  "source": "01_魔術師_素材/額装/図6_ウェイトスミス版.png",
+  "path": "img/01/fig6.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/01/fig6.jpg"
+ },
+ {
+  "card": "02_女教皇",
+  "id": "diagA",
+  "title": "図解A_名前の変遷",
+  "source": "02_女教皇_素材/額装/図解A_名前の変遷.png",
+  "path": "img/02/diagA.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/02/diagA.jpg"
+ },
+ {
+  "card": "02_女教皇",
+  "id": "diagB",
+  "title": "図解B_魔術師と女教皇",
+  "source": "02_女教皇_素材/額装/図解B_魔術師と女教皇.png",
+  "path": "img/02/diagB.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/02/diagB.jpg"
+ },
+ {
+  "card": "02_女教皇",
+  "id": "fig1",
+  "title": "図1_3版比較",
+  "source": "02_女教皇_素材/額装/図1_3版比較.png",
+  "path": "img/02/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/02/fig1.jpg"
+ },
+ {
+  "card": "02_女教皇",
+  "id": "fig2",
+  "title": "図2_ヴィスコンティ版",
+  "source": "02_女教皇_素材/額装/図2_ヴィスコンティ版.png",
+  "path": "img/02/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/02/fig2.jpg"
+ },
+ {
+  "card": "02_女教皇",
+  "id": "fig3",
+  "title": "図3_女教皇ヨハンナ",
+  "source": "02_女教皇_素材/額装/図3_女教皇ヨハンナ.png",
+  "path": "img/02/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/02/fig3.jpg"
+ },
+ {
+  "card": "02_女教皇",
+  "id": "fig4",
+  "title": "図4_マルセイユ版",
+  "source": "02_女教皇_素材/額装/図4_マルセイユ版.png",
+  "path": "img/02/fig4.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/02/fig4.jpg"
+ },
+ {
+  "card": "02_女教皇",
+  "id": "fig5",
+  "title": "図5_ウェイトスミス版",
+  "source": "02_女教皇_素材/額装/図5_ウェイトスミス版.png",
+  "path": "img/02/fig5.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/02/fig5.jpg"
+ },
+ {
+  "card": "02_女教皇",
+  "id": "fig6",
+  "title": "図6_イシスとマリア",
+  "source": "02_女教皇_素材/額装/図6_イシスとマリア.png",
+  "path": "img/02/fig6.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/02/fig6.jpg"
+ },
+ {
+  "card": "03_女帝",
+  "id": "diagA",
+  "title": "図解A_1と2から3へ",
+  "source": "03_女帝_素材/額装/図解A_1と2から3へ.png",
+  "path": "img/03/diagA.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/03/diagA.jpg"
+ },
+ {
+  "card": "03_女帝",
+  "id": "diagB",
+  "title": "図解B_グレートマザーの二つの顔",
+  "source": "03_女帝_素材/額装/図解B_グレートマザーの二つの顔.png",
+  "path": "img/03/diagB.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/03/diagB.jpg"
+ },
+ {
+  "card": "03_女帝",
+  "id": "fig1",
+  "title": "図1_3版比較",
+  "source": "03_女帝_素材/額装/図1_3版比較.png",
+  "path": "img/03/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/03/fig1.jpg"
+ },
+ {
+  "card": "03_女帝",
+  "id": "fig2",
+  "title": "図2_ヴィスコンティ版",
+  "source": "03_女帝_素材/額装/図2_ヴィスコンティ版.png",
+  "path": "img/03/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/03/fig2.jpg"
+ },
+ {
+  "card": "03_女帝",
+  "id": "fig3",
+  "title": "図3_マルセイユ版",
+  "source": "03_女帝_素材/額装/図3_マルセイユ版.png",
+  "path": "img/03/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/03/fig3.jpg"
+ },
+ {
+  "card": "03_女帝",
+  "id": "fig4",
+  "title": "図4_ラファエロ_牧場の聖母",
+  "source": "03_女帝_素材/額装/図4_ラファエロ_牧場の聖母.png",
+  "path": "img/03/fig4.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/03/fig4.jpg"
+ },
+ {
+  "card": "03_女帝",
+  "id": "fig5",
+  "title": "図5_ウェイトスミス版",
+  "source": "03_女帝_素材/額装/図5_ウェイトスミス版.png",
+  "path": "img/03/fig5.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/03/fig5.jpg"
+ },
+ {
+  "card": "04_皇帝",
+  "id": "diagA",
+  "title": "図解A_4が表すもの",
+  "source": "04_皇帝_素材/額装/図解A_4が表すもの.png",
+  "path": "img/04/diagA.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/04/diagA.jpg"
+ },
+ {
+  "card": "04_皇帝",
+  "id": "diagB",
+  "title": "図解B_母なるものと父なるもの",
+  "source": "04_皇帝_素材/額装/図解B_母なるものと父なるもの.png",
+  "path": "img/04/diagB.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/04/diagB.jpg"
+ },
+ {
+  "card": "04_皇帝",
+  "id": "fig1",
+  "title": "図1_3版比較",
+  "source": "04_皇帝_素材/額装/図1_3版比較.png",
+  "path": "img/04/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/04/fig1.jpg"
+ },
+ {
+  "card": "04_皇帝",
+  "id": "fig2",
+  "title": "図2_ヴィスコンティ版",
+  "source": "04_皇帝_素材/額装/図2_ヴィスコンティ版.png",
+  "path": "img/04/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/04/fig2.jpg"
+ },
+ {
+  "card": "04_皇帝",
+  "id": "fig3",
+  "title": "図3_マルセイユ版",
+  "source": "04_皇帝_素材/額装/図3_マルセイユ版.png",
+  "path": "img/04/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/04/fig3.jpg"
+ },
+ {
+  "card": "04_皇帝",
+  "id": "fig4",
+  "title": "図4_デューラー_カール大帝",
+  "source": "04_皇帝_素材/額装/図4_デューラー_カール大帝.png",
+  "path": "img/04/fig4.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/04/fig4.jpg"
+ },
+ {
+  "card": "04_皇帝",
+  "id": "fig5",
+  "title": "図5_ウェイトスミス版",
+  "source": "04_皇帝_素材/額装/図5_ウェイトスミス版.png",
+  "path": "img/04/fig5.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/04/fig5.jpg"
+ },
+ {
+  "card": "05_教皇",
+  "id": "fig1",
+  "title": "図1_3版比較",
+  "source": "05_教皇_素材/額装/図1_3版比較.png",
+  "path": "img/05/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/05/fig1.jpg"
+ },
+ {
+  "card": "05_教皇",
+  "id": "fig2",
+  "title": "図2_ヴィスコンティ版",
+  "source": "05_教皇_素材/額装/図2_ヴィスコンティ版.png",
+  "path": "img/05/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/05/fig2.jpg"
+ },
+ {
+  "card": "05_教皇",
+  "id": "fig3",
+  "title": "図3_マルセイユ版",
+  "source": "05_教皇_素材/額装/図3_マルセイユ版.png",
+  "path": "img/05/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/05/fig3.jpg"
+ },
+ {
+  "card": "05_教皇",
+  "id": "fig4",
+  "title": "図4_ファンエイク_ゲントの祭壇画",
+  "source": "05_教皇_素材/額装/図4_ファンエイク_ゲントの祭壇画.png",
+  "path": "img/05/fig4.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/05/fig4.jpg"
+ },
+ {
+  "card": "05_教皇",
+  "id": "fig5",
+  "title": "図5_ブザンソン版ジュピター",
+  "source": "05_教皇_素材/額装/図5_ブザンソン版ジュピター.png",
+  "path": "img/05/fig5.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/05/fig5.jpg"
+ },
+ {
+  "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
+  "id": "fig1",
+  "title": "図1_金箔の切り札",
+  "source": "②歴史シリーズ_Substack_Podcast/V0_素材/額装/図1_金箔の切り札.png",
+  "path": "img/history/V0/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V0/fig1.jpg"
+ },
+ {
+  "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
+  "id": "fig2",
+  "title": "図2_年表",
+  "source": "②歴史シリーズ_Substack_Podcast/V0_素材/額装/図2_年表.png",
+  "path": "img/history/V0/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V0/fig2.jpg"
+ },
+ {
+  "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
+  "id": "fig3",
+  "title": "図3_散らばったカード",
+  "source": "②歴史シリーズ_Substack_Podcast/V0_素材/額装/図3_散らばったカード.png",
+  "path": "img/history/V0/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V0/fig3.jpg"
+ },
+ {
+  "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
+  "id": "fig4",
+  "title": "図4_北イタリアの地図",
+  "source": "②歴史シリーズ_Substack_Podcast/V0_素材/額装/図4_北イタリアの地図.png",
+  "path": "img/history/V0/fig4.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V0/fig4.jpg"
+ },
+ {
+  "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
+  "id": "fig5",
+  "title": "図5_第1部の地図",
+  "source": "②歴史シリーズ_Substack_Podcast/V0_素材/額装/図5_第1部の地図.png",
+  "path": "img/history/V0/fig5.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V0/fig5.jpg"
+ },
+ {
+  "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
+  "id": "fig6",
+  "title": "図6_3つの目",
+  "source": "②歴史シリーズ_Substack_Podcast/V0_素材/額装/図6_3つの目.png",
+  "path": "img/history/V0/fig6.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V0/fig6.jpg"
+ },
+ {
+  "card": "V1-01_子どもを呑む蛇の紋章",
+  "id": "fig1",
+  "title": "図1_ビショーネ",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-01_素材/額装/図1_ビショーネ.png",
+  "path": "img/history/V1-01/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-01/fig1.jpg"
+ },
+ {
+  "card": "V1-01_子どもを呑む蛇の紋章",
+  "id": "fig2",
+  "title": "図2_蛇の由来",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-01_素材/額装/図2_蛇の由来.png",
+  "path": "img/history/V1-01/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-01/fig2.jpg"
+ },
+ {
+  "card": "V1-01_子どもを呑む蛇の紋章",
+  "id": "fig3",
+  "title": "図3_呑むのか生むのか",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-01_素材/額装/図3_呑むのか生むのか.png",
+  "path": "img/history/V1-01/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-01/fig3.jpg"
+ },
+ {
+  "card": "V1-02_蛇と鷲",
+  "id": "fig1",
+  "title": "図1_大司教から公爵へ",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-02_素材/額装/図1_大司教から公爵へ.png",
+  "path": "img/history/V1-02/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-02/fig1.jpg"
+ },
+ {
+  "card": "V1-02_蛇と鷲",
+  "id": "fig2",
+  "title": "図2_タロットの中の紋章",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-02_素材/額装/図2_タロットの中の紋章.png",
+  "path": "img/history/V1-02/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-02/fig2.jpg"
+ },
+ {
+  "card": "V1-02_蛇と鷲",
+  "id": "fig3",
+  "title": "図3_魔術師と皇帝",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-02_素材/額装/図3_魔術師と皇帝.png",
+  "path": "img/history/V1-02/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-02/fig3.jpg"
+ },
+ {
+  "card": "V1-03_姿を見せない君主",
+  "id": "fig1",
+  "title": "図1_フィリッポ・マリアの生涯",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-03_素材/額装/図1_フィリッポ・マリアの生涯.png",
+  "path": "img/history/V1-03/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-03/fig1.jpg"
+ },
+ {
+  "card": "V1-03_姿を見せない君主",
+  "id": "fig2",
+  "title": "図2_ピサネッロのメダル",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-03_素材/額装/図2_ピサネッロのメダル.png",
+  "path": "img/history/V1-03/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-03/fig2.jpg"
+ },
+ {
+  "card": "V1-03_姿を見せない君主",
+  "id": "fig3",
+  "title": "図3_城の奥の君主",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-03_素材/額装/図3_城の奥の君主.png",
+  "path": "img/history/V1-03/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-03/fig3.jpg"
+ },
+ {
+  "card": "V1-04_カードに夢中の君主",
+  "id": "fig1",
+  "title": "図1_カードに夢中の君主",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-04_素材/額装/図1_カードに夢中の君主.png",
+  "path": "img/history/V1-04/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-04/fig1.jpg"
+ },
+ {
+  "card": "V1-04_カードに夢中の君主",
+  "id": "fig2",
+  "title": "図2_見せないもの見せたもの",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-04_素材/額装/図2_見せないもの見せたもの.png",
+  "path": "img/history/V1-04/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-04/fig2.jpg"
+ },
+ {
+  "card": "V1-05_傭兵隊長フランチェスコ・スフォルツァ",
+  "id": "fig1",
+  "title": "図1_コティニョーラからミラノへ",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-05_素材/額装/図1_コティニョーラからミラノへ.png",
+  "path": "img/history/V1-05/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-05/fig1.jpg"
+ },
+ {
+  "card": "V1-05_傭兵隊長フランチェスコ・スフォルツァ",
+  "id": "fig2",
+  "title": "図2_運命の輪",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-05_素材/額装/図2_運命の輪.png",
+  "path": "img/history/V1-05/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-05/fig2.jpg"
+ },
+ {
+  "card": "V1-06_ビアンカ・マリアとの政略結婚",
+  "id": "fig1",
+  "title": "図1_ベンボが描いた夫婦",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-06_素材/額装/図1_ベンボが描いた夫婦.png",
+  "path": "img/history/V1-06/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-06/fig1.jpg"
+ },
+ {
+  "card": "V1-06_ビアンカ・マリアとの政略結婚",
+  "id": "fig2",
+  "title": "図2_恋人の札",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-06_素材/額装/図2_恋人の札.png",
+  "path": "img/history/V1-06/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-06/fig2.jpg"
+ },
+ {
+  "card": "V1-07_考察_権力はなぜ物語とイメージを必要とするのか",
+  "id": "fig1",
+  "title": "図1_第1章のふりかえり",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-07_素材/額装/図1_第1章のふりかえり.png",
+  "path": "img/history/V1-07/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-07/fig1.jpg"
+ },
+ {
+  "card": "V1-07_考察_権力はなぜ物語とイメージを必要とするのか",
+  "id": "fig2",
+  "title": "図2_権力より長生きしたカード",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-07_素材/額装/図2_権力より長生きしたカード.png",
+  "path": "img/history/V1-07/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-07/fig2.jpg"
+ },
+ {
+  "card": "V2-01_紙のカードは東から",
+  "id": "fig1",
+  "title": "図1_紙とカードの道",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-01_素材/額装/図1_紙とカードの道.png",
+  "path": "img/history/V2-01/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-01/fig1.jpg"
+ },
+ {
+  "card": "V2-01_紙のカードは東から",
+  "id": "fig2",
+  "title": "図2_紙からタロットへ",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-01_素材/額装/図2_紙からタロットへ.png",
+  "path": "img/history/V2-01/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-01/fig2.jpg"
+ },
+ {
+  "card": "V2-02_マムルーク朝のカード",
+  "id": "fig1",
+  "title": "図1_マムルークのカード",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-02_素材/額装/図1_マムルークのカード.png",
+  "path": "img/history/V2-02/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-02/fig1.jpg"
+ },
+ {
+  "card": "V2-02_マムルーク朝のカード",
+  "id": "fig2",
+  "title": "図2_スートの旅",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-02_素材/額装/図2_スートの旅.png",
+  "path": "img/history/V2-02/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-02/fig2.jpg"
+ },
+ {
+  "card": "V2-03_1377年カードがヨーロッパに現れた年",
+  "id": "fig1",
+  "title": "図1_1377年前後の記録",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-03_素材/額装/図1_1377年前後の記録.png",
+  "path": "img/history/V2-03/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-03/fig1.jpg"
+ },
+ {
+  "card": "V2-03_1377年カードがヨーロッパに現れた年",
+  "id": "fig2",
+  "title": "図2_王と家臣から宮廷札へ",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-03_素材/額装/図2_王と家臣から宮廷札へ.png",
+  "path": "img/history/V2-03/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-03/fig2.jpg"
+ }
+]
