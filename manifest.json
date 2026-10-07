@@ -392,6 +392,14 @@
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-02/fig3.jpg"
  },
  {
+  "card": "V1-02_蛇と鷲",
+  "id": "reel_cover",
+  "title": "サムネイル_Reel_V1-02",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-02_素材/額装/サムネイル_Reel_V1-02.jpg",
+  "path": "img/history/V1-02/reel_cover.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-02/reel_cover.jpg"
+ },
+ {
   "card": "V1-03_姿を見せない君主",
   "id": "fig1",
   "title": "図1_フィリッポ・マリアの生涯",
@@ -414,6 +422,14 @@
   "source": "②歴史シリーズ_Substack_Podcast/V1-03_素材/額装/図3_城の奥の君主.png",
   "path": "img/history/V1-03/fig3.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-03/fig3.jpg"
+ },
+ {
+  "card": "V1-03_姿を見せない君主",
+  "id": "reel_cover",
+  "title": "サムネイル_Reel_V1-03",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-03_素材/額装/サムネイル_Reel_V1-03.jpg",
+  "path": "img/history/V1-03/reel_cover.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-03/reel_cover.jpg"
  },
  {
   "card": "V1-04_カードに夢中の君主",
