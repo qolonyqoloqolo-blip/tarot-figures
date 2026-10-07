@@ -83,10 +83,14 @@ episodes = {int(n) for n in re.findall(r"タロットの歴史 第(\d+)話】", 
 manifest = []
 
 
-def add(p, rel, card, source):
+def add(p, rel, card, source, raw=False):
     dst = OUT / rel
     if not dst.exists() or dst.stat().st_mtime < p.stat().st_mtime:
-        normalize(p, dst)
+        if raw:  # リールのカバーなど、大きさを変えずに置くもの
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            dst.write_bytes(p.read_bytes())
+        else:
+            normalize(p, dst)
         print("updated", rel)
     manifest.append({"card": card, "id": rel.rsplit("/", 1)[1][:-4], "title": p.stem, "source": source,
                      "path": rel, "url": f"{BASE_URL}/{rel}" if BASE_URL else rel})
@@ -114,6 +118,10 @@ for i, md in enumerate(sorted(HIST.glob("V*.md"))):
     for fid, p in sorted(figures(mat).items()):
         if fid in ok:
             add(p, f"img/history/{ep}/{fid}.jpg", md.stem, str(p.relative_to(BASE)))
+    # Instagramリールのカバー（1080×1920、_thumb_reel.py）。API の cover_url に使う
+    cover = mat / "額装" / f"サムネイル_Reel_{ep}.jpg"
+    if cover.exists():
+        add(cover, f"img/history/{ep}/reel_cover.jpg", md.stem, str(cover.relative_to(BASE)), raw=True)
 
 # 公開していない図は消す
 keep = {m["path"] for m in manifest}
