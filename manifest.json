@@ -472,6 +472,14 @@
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-05/fig2.jpg"
  },
  {
+  "card": "V1-05_傭兵隊長フランチェスコ・スフォルツァ",
+  "id": "reel_cover",
+  "title": "サムネイル_Reel_V1-05",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-05_素材/額装/サムネイル_Reel_V1-05.jpg",
+  "path": "img/history/V1-05/reel_cover.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-05/reel_cover.jpg"
+ },
+ {
   "card": "V1-06_ビアンカ・マリアとの政略結婚",
   "id": "fig1",
   "title": "図1_ベンボが描いた夫婦",
@@ -566,5 +574,21 @@
   "source": "②歴史シリーズ_Substack_Podcast/V2-04_素材/額装/図2_4つのスートの変身.png",
   "path": "img/history/V2-04/fig2.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-04/fig2.jpg"
+ },
+ {
+  "card": "V2-05_聖ベルナルディーノの火",
+  "id": "fig1",
+  "title": "図1_ベルナルディーノと虚栄の焼却",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-05_素材/額装/図1_ベルナルディーノと虚栄の焼却.png",
+  "path": "img/history/V2-05/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-05/fig1.jpg"
+ },
+ {
+  "card": "V2-05_聖ベルナルディーノの火",
+  "id": "fig2",
+  "title": "図2_広場と宮廷",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-05_素材/額装/図2_広場と宮廷.png",
+  "path": "img/history/V2-05/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-05/fig2.jpg"
  }
 ]
