@@ -512,6 +512,14 @@
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-06/fig2.jpg"
  },
  {
+  "card": "V1-06_ビアンカ・マリアとの政略結婚",
+  "id": "reel_cover",
+  "title": "サムネイル_Reel_V1-06",
+  "source": "②歴史シリーズ_Substack_Podcast/V1-06_素材/額装/サムネイル_Reel_V1-06.jpg",
+  "path": "img/history/V1-06/reel_cover.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V1-06/reel_cover.jpg"
+ },
+ {
   "card": "V1-07_考察_権力はなぜ物語とイメージを必要とするのか",
   "id": "fig1",
   "title": "図1_第1章のふりかえり",
@@ -606,5 +614,13 @@
   "source": "②歴史シリーズ_Substack_Podcast/V2-05_素材/額装/図2_広場と宮廷.png",
   "path": "img/history/V2-05/fig2.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-05/fig2.jpg"
+ },
+ {
+  "card": "V2-06_最古の切り札リスト",
+  "id": "fig1",
+  "title": "図1_スティールの説教の22枚",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-06_素材/額装/図1_スティールの説教の22枚.png",
+  "path": "img/history/V2-06/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-06/fig1.jpg"
  }
 ]
