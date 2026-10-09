@@ -241,6 +241,14 @@
  },
  {
   "card": "05_教皇",
+  "id": "diagA",
+  "title": "図解A_隠す女教皇と見せる教皇",
+  "source": "05_教皇_素材/額装/図解A_隠す女教皇と見せる教皇.png",
+  "path": "img/05/diagA.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/05/diagA.jpg"
+ },
+ {
+  "card": "05_教皇",
   "id": "fig1",
   "title": "図1_3版比較",
   "source": "05_教皇_素材/額装/図1_3版比較.png",
@@ -278,6 +286,14 @@
   "source": "05_教皇_素材/額装/図5_ブザンソン版ジュピター.png",
   "path": "img/05/fig5.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/05/fig5.jpg"
+ },
+ {
+  "card": "05_教皇",
+  "id": "fig6",
+  "title": "図6_ウェイトスミス版",
+  "source": "05_教皇_素材/額装/図6_ウェイトスミス版.png",
+  "path": "img/05/fig6.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/05/fig6.jpg"
  },
  {
   "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
