@@ -249,6 +249,14 @@
  },
  {
   "card": "05_教皇",
+  "id": "diagB",
+  "title": "図解B_傷ついた治療者",
+  "source": "05_教皇_素材/額装/図解B_傷ついた治療者.png",
+  "path": "img/05/diagB.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/05/diagB.jpg"
+ },
+ {
+  "card": "05_教皇",
   "id": "fig1",
   "title": "図1_3版比較",
   "source": "05_教皇_素材/額装/図1_3版比較.png",
