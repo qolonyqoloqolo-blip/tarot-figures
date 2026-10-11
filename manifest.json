@@ -584,6 +584,14 @@
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-01/fig2.jpg"
  },
  {
+  "card": "V2-01_紙のカードは東から",
+  "id": "reel_cover",
+  "title": "サムネイル_Reel_V2-01",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-01_素材/額装/サムネイル_Reel_V2-01.jpg",
+  "path": "img/history/V2-01/reel_cover.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-01/reel_cover.jpg"
+ },
+ {
   "card": "V2-02_マムルーク朝のカード",
   "id": "fig1",
   "title": "図1_マムルークのカード",
@@ -654,5 +662,21 @@
   "source": "②歴史シリーズ_Substack_Podcast/V2-06_素材/額装/図1_スティールの説教の22枚.png",
   "path": "img/history/V2-06/fig1.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-06/fig1.jpg"
+ },
+ {
+  "card": "V2-07_考察_遊びは社会の中でどんな役割を果たすのか",
+  "id": "fig1",
+  "title": "図1_第2章のふりかえり",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-07_素材/額装/図1_第2章のふりかえり.png",
+  "path": "img/history/V2-07/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-07/fig1.jpg"
+ },
+ {
+  "card": "V2-07_考察_遊びは社会の中でどんな役割を果たすのか",
+  "id": "fig2",
+  "title": "図2_魔法の輪",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-07_素材/額装/図2_魔法の輪.png",
+  "path": "img/history/V2-07/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-07/fig2.jpg"
  }
 ]
