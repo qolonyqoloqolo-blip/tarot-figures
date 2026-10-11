@@ -304,6 +304,22 @@
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/05/fig6.jpg"
  },
  {
+  "card": "06_恋人",
+  "id": "fig1",
+  "title": "図1_3版比較",
+  "source": "06_恋人_素材/額装/図1_3版比較.png",
+  "path": "img/06/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/06/fig1.jpg"
+ },
+ {
+  "card": "06_恋人",
+  "id": "fig2",
+  "title": "図2_ヴィスコンティ版",
+  "source": "06_恋人_素材/額装/図2_ヴィスコンティ版.png",
+  "path": "img/06/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/06/fig2.jpg"
+ },
+ {
   "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
   "id": "fig1",
   "title": "図1_金箔の切り札",
