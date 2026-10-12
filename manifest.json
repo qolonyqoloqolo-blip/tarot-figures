@@ -305,6 +305,14 @@
  },
  {
   "card": "06_恋人",
+  "id": "diagA",
+  "title": "図解A_分かれ道のヘラクレス",
+  "source": "06_恋人_素材/額装/図解A_分かれ道のヘラクレス.png",
+  "path": "img/06/diagA.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/06/diagA.jpg"
+ },
+ {
+  "card": "06_恋人",
   "id": "fig1",
   "title": "図1_3版比較",
   "source": "06_恋人_素材/額装/図1_3版比較.png",
@@ -318,6 +326,14 @@
   "source": "06_恋人_素材/額装/図2_ヴィスコンティ版.png",
   "path": "img/06/fig2.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/06/fig2.jpg"
+ },
+ {
+  "card": "06_恋人",
+  "id": "fig3",
+  "title": "図3_マルセイユ版",
+  "source": "06_恋人_素材/額装/図3_マルセイユ版.png",
+  "path": "img/06/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/06/fig3.jpg"
  },
  {
   "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
@@ -608,6 +624,14 @@
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-02/fig2.jpg"
  },
  {
+  "card": "V2-02_マムルーク朝のカード",
+  "id": "reel_cover",
+  "title": "サムネイル_Reel_V2-02",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-02_素材/額装/サムネイル_Reel_V2-02.jpg",
+  "path": "img/history/V2-02/reel_cover.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-02/reel_cover.jpg"
+ },
+ {
   "card": "V2-03_1377年カードがヨーロッパに現れた年",
   "id": "fig1",
   "title": "図1_1377年前後の記録",
@@ -678,5 +702,21 @@
   "source": "②歴史シリーズ_Substack_Podcast/V2-07_素材/額装/図2_魔法の輪.png",
   "path": "img/history/V2-07/fig2.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-07/fig2.jpg"
+ },
+ {
+  "card": "V3-01_ペトラルカの詩『凱旋』",
+  "id": "fig1",
+  "title": "図1_6つの凱旋",
+  "source": "②歴史シリーズ_Substack_Podcast/V3-01_素材/額装/図1_6つの凱旋.png",
+  "path": "img/history/V3-01/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-01/fig1.jpg"
+ },
+ {
+  "card": "V3-01_ペトラルカの詩『凱旋』",
+  "id": "fig2",
+  "title": "図2_凱旋と切り札",
+  "source": "②歴史シリーズ_Substack_Podcast/V3-01_素材/額装/図2_凱旋と切り札.png",
+  "path": "img/history/V3-01/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-01/fig2.jpg"
  }
 ]
