@@ -664,6 +664,14 @@
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-03/fig2.jpg"
  },
  {
+  "card": "V2-03_1377年カードがヨーロッパに現れた年",
+  "id": "reel_cover",
+  "title": "サムネイル_Reel_V2-03",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-03_素材/額装/サムネイル_Reel_V2-03.jpg",
+  "path": "img/history/V2-03/reel_cover.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-03/reel_cover.jpg"
+ },
+ {
   "card": "V2-04_4つのスートの起源",
   "id": "fig1",
   "title": "図1_スートの地図",
@@ -734,5 +742,21 @@
   "source": "②歴史シリーズ_Substack_Podcast/V3-01_素材/額装/図2_凱旋と切り札.png",
   "path": "img/history/V3-01/fig2.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-01/fig2.jpg"
+ },
+ {
+  "card": "V3-02_ルネサンスの凱旋行列",
+  "id": "fig1",
+  "title": "図1_凱旋の歴史",
+  "source": "②歴史シリーズ_Substack_Podcast/V3-02_素材/額装/図1_凱旋の歴史.png",
+  "path": "img/history/V3-02/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-02/fig1.jpg"
+ },
+ {
+  "card": "V3-02_ルネサンスの凱旋行列",
+  "id": "fig2",
+  "title": "図2_凱旋車の札",
+  "source": "②歴史シリーズ_Substack_Podcast/V3-02_素材/額装/図2_凱旋車の札.png",
+  "path": "img/history/V3-02/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-02/fig2.jpg"
  }
 ]
