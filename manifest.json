@@ -313,6 +313,14 @@
  },
  {
   "card": "06_恋人",
+  "id": "diagB",
+  "title": "図解B_恋人と悪魔",
+  "source": "06_恋人_素材/額装/図解B_恋人と悪魔.png",
+  "path": "img/06/diagB.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/06/diagB.jpg"
+ },
+ {
+  "card": "06_恋人",
   "id": "fig1",
   "title": "図1_3版比較",
   "source": "06_恋人_素材/額装/図1_3版比較.png",
@@ -350,6 +358,38 @@
   "source": "06_恋人_素材/額装/図5_ウェイトスミス版.png",
   "path": "img/06/fig5.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/06/fig5.jpg"
+ },
+ {
+  "card": "07_戦車",
+  "id": "fig1",
+  "title": "図1_3版比較",
+  "source": "07_戦車_素材/額装/図1_3版比較.png",
+  "path": "img/07/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/07/fig1.jpg"
+ },
+ {
+  "card": "07_戦車",
+  "id": "fig2",
+  "title": "図2_ヴィスコンティ版",
+  "source": "07_戦車_素材/額装/図2_ヴィスコンティ版.png",
+  "path": "img/07/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/07/fig2.jpg"
+ },
+ {
+  "card": "07_戦車",
+  "id": "fig3",
+  "title": "図3_アポローニオ_凱旋",
+  "source": "07_戦車_素材/額装/図3_アポローニオ_凱旋.png",
+  "path": "img/07/fig3.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/07/fig3.jpg"
+ },
+ {
+  "card": "07_戦車",
+  "id": "fig4",
+  "title": "図4_マルセイユ版",
+  "source": "07_戦車_素材/額装/図4_マルセイユ版.png",
+  "path": "img/07/fig4.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/07/fig4.jpg"
  },
  {
   "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
