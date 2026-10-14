@@ -728,6 +728,14 @@
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-04/fig2.jpg"
  },
  {
+  "card": "V2-04_4つのスートの起源",
+  "id": "reel_cover",
+  "title": "サムネイル_Reel_V2-04",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-04_素材/額装/サムネイル_Reel_V2-04.jpg",
+  "path": "img/history/V2-04/reel_cover.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-04/reel_cover.jpg"
+ },
+ {
   "card": "V2-05_聖ベルナルディーノの火",
   "id": "fig1",
   "title": "図1_ベルナルディーノと虚栄の焼却",
@@ -798,5 +806,21 @@
   "source": "②歴史シリーズ_Substack_Podcast/V3-02_素材/額装/図2_凱旋車の札.png",
   "path": "img/history/V3-02/fig2.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-02/fig2.jpg"
+ },
+ {
+  "card": "V3-03_婚礼の長持ちに描かれた凱旋",
+  "id": "fig1",
+  "title": "図1_ペシェッリーノの凱旋",
+  "source": "②歴史シリーズ_Substack_Podcast/V3-03_素材/額装/図1_ペシェッリーノの凱旋.png",
+  "path": "img/history/V3-03/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-03/fig1.jpg"
+ },
+ {
+  "card": "V3-03_婚礼の長持ちに描かれた凱旋",
+  "id": "fig2",
+  "title": "図2_長持ちとカード",
+  "source": "②歴史シリーズ_Substack_Podcast/V3-03_素材/額装/図2_長持ちとカード.png",
+  "path": "img/history/V3-03/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-03/fig2.jpg"
  }
 ]
