@@ -361,6 +361,14 @@
  },
  {
   "card": "07_戦車",
+  "id": "diagA",
+  "title": "図解A_戦車に集まる六枚の札",
+  "source": "07_戦車_素材/額装/図解A_戦車に集まる六枚の札.png",
+  "path": "img/07/diagA.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/07/diagA.jpg"
+ },
+ {
+  "card": "07_戦車",
   "id": "fig1",
   "title": "図1_3版比較",
   "source": "07_戦車_素材/額装/図1_3版比較.png",
@@ -390,6 +398,14 @@
   "source": "07_戦車_素材/額装/図4_マルセイユ版.png",
   "path": "img/07/fig4.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/07/fig4.jpg"
+ },
+ {
+  "card": "07_戦車",
+  "id": "fig5",
+  "title": "図5_ウェイトスミス版",
+  "source": "07_戦車_素材/額装/図5_ウェイトスミス版.png",
+  "path": "img/07/fig5.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/07/fig5.jpg"
  },
  {
   "card": "V0_第1部イントロ_宮廷の遊びとしてのタロット",
@@ -752,6 +768,14 @@
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-05/fig2.jpg"
  },
  {
+  "card": "V2-05_聖ベルナルディーノの火",
+  "id": "reel_cover",
+  "title": "サムネイル_Reel_V2-05",
+  "source": "②歴史シリーズ_Substack_Podcast/V2-05_素材/額装/サムネイル_Reel_V2-05.jpg",
+  "path": "img/history/V2-05/reel_cover.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V2-05/reel_cover.jpg"
+ },
+ {
   "card": "V2-06_最古の切り札リスト",
   "id": "fig1",
   "title": "図1_スティールの説教の22枚",
@@ -822,5 +846,21 @@
   "source": "②歴史シリーズ_Substack_Podcast/V3-03_素材/額装/図2_長持ちとカード.png",
   "path": "img/history/V3-03/fig2.jpg",
   "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-03/fig2.jpg"
+ },
+ {
+  "card": "V3-04_切り札という発明",
+  "id": "fig1",
+  "title": "図1_最初の記録",
+  "source": "②歴史シリーズ_Substack_Podcast/V3-04_素材/額装/図1_最初の記録.png",
+  "path": "img/history/V3-04/fig1.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-04/fig1.jpg"
+ },
+ {
+  "card": "V3-04_切り札という発明",
+  "id": "fig2",
+  "title": "図2_切り札のしくみ",
+  "source": "②歴史シリーズ_Substack_Podcast/V3-04_素材/額装/図2_切り札のしくみ.png",
+  "path": "img/history/V3-04/fig2.jpg",
+  "url": "https://qolonyqoloqolo-blip.github.io/tarot-figures/img/history/V3-04/fig2.jpg"
  }
 ]
